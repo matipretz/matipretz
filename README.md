@@ -54,9 +54,9 @@ Spanish and [English](http://www.efset.org/cert/myHW3s)
 
 ### - [SecureKey](github.com/matipretz/SecureKey)
 
-![Project Image](https://github.com/matipretz/matipretz.github.io/blob/706cbae48929cf44c341f17a55db21594248e4eb/images/pic02.jpg)
+![Project Image](/img/img_sk.png)
 
-_SecureKey is a password management application that allows you to store your passwords._
+_SecureKey is a management application that allows you to generate and store passwords offline._
 
 ## GITHUB STATISTICS
 
