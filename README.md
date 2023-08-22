@@ -1,4 +1,4 @@
-[matipretz.ar](https://matipretz.ar/)  ·  [in/matipretz ](https://www.linkedin.com/in/matipretz/) · [github.com/matipretz](https://github.com/matipretz)
+[matipretz.ar](https://matipretz.ar/) · [Discord](https://discordapp.com/users/mattanga) · [github.com/matipretz](https://github.com/matipretz)
 
 # MATÍAS MARTÍN MURAD PRETZ
 
@@ -23,32 +23,50 @@ With a solid experience in administrative roles,I've honed organizational skills
 ## EDUCATION
 
 ### **Full Stack Python** at [Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
+
 - in progress
 
 ### **Basics of programming with java** at [Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
-- 07 2023 
+
+- 07 2023
 
 ### **Java Standard Programming, J2SE** at [Educación IT](https://www.educacionit.com/)
+
 - 12 2017 · [Certificate](https://www.educacionit.com/perfil/matias-martin-murad-pretz-225217/certificado/25229)
 
 ### **Introduction to Databases and SQL** at [Educación IT](https://www.educacionit.com/)
+
 - 09 2017 · [Certificate](https://www.educacionit.com/perfil/matias-martin-murad-pretz-225217/certificado/27282)
 
-
 ### **Introduction to OOP** at [Educación IT](https://www.educacionit.com/)
+
 - 09 2017 · [Certificate](https://www.educacionit.com/perfil/matias-martin-murad-pretz-225217/certificado/25209)
 
+### **Introduction to Java** at [Educación IT](https://www.educacionit.com/)
 
-### **Introduction to Java** at [Educación IT](https://www.educacionit.com/)  
 - 08 2017 · [Certificate](https://www.educacionit.com/perfil/matias-martin-murad-pretz-225217/certificado/26726)
-
 
 ## LANGUAGES
 
 Spanish and [English](http://www.efset.org/cert/myHW3s)
+
+## Projects
+
+### - [SecureKey](github.com/matipretz/SecureKey)
+
+![Project Image](http://matipretz.ar/images/pic02.png)
+
+_SecureKey is a password management application that allows you to store your passwords._
 
 ## GITHUB STATISTICS
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matipretz&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matipretz&theme=dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=matipretz&theme=dark)
+
+## Contact Me
+
+If you'd like to connect, discuss potential collaborations, or simply say hello, feel free to reach out to me through the following channels:
+
+- [Contact form at matipretz.ar](http://matipretz.ar/#contact)
+- [Discord](https://discordapp.com/users/mattanga)
