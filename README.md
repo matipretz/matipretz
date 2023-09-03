@@ -1,5 +1,7 @@
 [matipretz.ar](https://matipretz.ar/) · [Discord](https://discordapp.com/users/mattanga) · [github.com/matipretz](https://github.com/matipretz)
 
+<img src="https://chart.googleapis.com/chart?cht=qr&chl=http%3A%2F%2Fmatipretz.ar&chs=180x180&choe=UTF-8&chld=L|2">
+
 # MATÍAS MARTÍN MURAD PRETZ
 
 **I'm transitioning into the software development field with a solid background in administrative roles**
