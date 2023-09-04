@@ -65,15 +65,15 @@ _SecureKey is a management application that allows you to generate and store pas
 
 _SecureKey is a port of SecureKey-Manager written in Python for personal single-user use._
 
-### - [Personal page](http://matipretz/.ar)
+### - [Personal page](http://matipretz.ar)
 
 _Personal website where I showcase my works._
 
-### - [Codebox](http://matipretz/.ar/codebox)
+### - [Codebox](http://matipretz.ar/codebox)
 
 _Codebox is an educational blog aimed at those who are learning web development. It is part of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is a group project with a team of five people._
 
-### - [FullStack Oeste](http://matipretz/.ar/fullstackoeste)
+### - [FullStack Oeste](http://matipretz.ar/fullstackoeste)
 
 _FullStack Oeste is a professional website that offers web development services. It is part of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is a group project with a team of five people._
 
