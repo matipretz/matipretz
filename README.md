@@ -33,7 +33,7 @@ I am confident that my background in law, coupled with my administrative skills,
 
 ### **Basics of programming with java** at [Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
 
-- 07 2023
+- 07 2023 · [Certificate](https://drive.google.com/file/d/1NRTS0h5E0a1epArzntPvWQ2vxd34Y-Yu)
 
 ## Courses:
 
