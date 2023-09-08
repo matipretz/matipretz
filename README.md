@@ -81,16 +81,3 @@ _Codebox was a proposal for the group project involving HTML and CSS development
 ### - [FullStack Oeste](http://matipretz.ar/fullstackoeste)
 
 _FullStack Oeste is a proposal for the group project involving HTML and CSS development within the framework of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is a professional website that offers web development services. The project is a group effort with a team of five people. Currently in development._
-
-
-
-
-
-
-
-
-## GITHUB STATISTICS
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=matipretz&theme=dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=matipretz&theme=dark)
-
