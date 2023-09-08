@@ -1,26 +1,31 @@
-[matipretz.ar](https://matipretz.ar/) · [Discord](https://discordapp.com/users/mattanga) · [GitHub](https://github.com/matipretz) · [Contact me!](https://matipretz.ar/contact)
+[matipretz.ar](https://matipretz.ar/) · [WhatsApp](https://tinyurl.com/acces1) · [GitHub](https://github.com/matipretz) · [Contact me!](https://matipretz.ar/contact)
 
 # MATÍAS MARTÍN MURAD PRETZ
 
-**I'm transitioning into the software development field with a solid background in administrative roles**
+**Hello, I'm Matías, a technology enthusiast in my mid-thirties.**
 
-Hey there, I'm Matías, a tech enthusiast in my mid-30s, diving deep into programming and software development. I began by tinkering with broken computers, sparking my passion. Certified courses in computer repair and Java gave me a strong hardware foundation and coding basics. Currently in a dynamic full-stack bootcamp, I'm mastering Python, Django, HTML, CSS, and vanilla JavaScript for web apps. I love hands-on learning, solving complex issues with innovative tools, and I'm all about continuous growth. Excited for the endless possibilities in the ever-evolving software world!
+Since an early age, technology has always been my constant fascination. Through various courses, I've acquired solid knowledge in HTML, CSS, JavaScript, Python, and Java.Each of these technologies represents not only a tool but also a gateway to a universe of creative and functional possibilities. From designing interfaces to building interactive applications, I've explored the diverse aspects of web development.
+
+I am convinced that web development is a powerful tool for transforming ideas into tangible solutions. My goal is to create experiences that captivate users and effectively solve problems. My current pursuit is focused on securing my first opportunity to apply this knowledge in a professional environment. I am eager to face challenges and contribute to the world of software development with a fresh approach oriented towards continuous growth.
 
 ## MOST RECENT WORK EXPERIENCE
 
-With a solid experience in administrative roles,I've honed organizational skills, attention to detail, and effective communication. As I venture into software development, I embrace the opportunity to fuse these skills with my passion for technology. I'm actively learning and working on projects, all set to bring a fresh outlook and a strong work ethic to coding. My dedication to growth and problem-solving aligns seamlessly with the expectations of the evolving market and I'm eager to make a meaningful impact in the world of software.
+Currently, I am responsible for an administrative department at a motor vehicle property registry, where I have been able to develop skills in organization, attention to detail, and effective communication.
+
+Additionally, I am also an intermediate-level student in the field of law, which provides me with a solid understanding of the legal and ethical implications surrounding software development. This enables me to contribute to ensuring that products and applications comply with legal and ethical standards, particularly crucial in areas such as data protection and user privacy.
+
+I am confident that my background in law, coupled with my administrative skills, brings a valuable perspective that extends beyond the technical aspect of software development.
 
 ## SKILLS
 
-- HTML
-- CSS
-- JS
+- HTML5
+- CSS3
 - Python
 - Java
-- Linux
-- GIT
+- WSL
+- GitHub
 
-## EDUCATION
+## Online Courses:
 
 ### **Full Stack with Python** at [Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
 
@@ -29,6 +34,8 @@ With a solid experience in administrative roles,I've honed organizational skills
 ### **Basics of programming with java** at [Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
 
 - 07 2023
+
+## Courses:
 
 ### **Java Standard Programming, J2SE** at [Educación IT](https://www.educacionit.com/)
 
@@ -48,22 +55,20 @@ With a solid experience in administrative roles,I've honed organizational skills
 
 ## LANGUAGES
 
-Spanish and [English](http://www.efset.org/cert/myHW3s)
+### **English**
 
+- 09 2023 · [Certificado](https://www.efset.org/cert/oiXghv)
 
-
-
-
-## Projects
+## PROYECTS
 
 ### - [SecureKey-Manager](http://github.com/matipretz/SecureKey-Manager)
 
-_SecureKey is a management application that allows you to generate and store passwords offline. It was written in Java as part of the "Codo a Codo 4.0 - Basics of programming with java" course as an individual final project. It supports multiple users. Currently, it is abandoned._
+_SecureKey-Manager is a management application that allows you to generate and store passwords offline. It was written in Java as part of the "Codo a Codo 4.0 - Initial Java Programming" course as an individual final project. It supports multiple users and data encryption. Completed._
 
 
 ### - [SecureKey](http://github.com/matipretz/SecureKey)
 
-_SecureKey is a port of SecureKey-Manager written in Python for personal single-user use._
+_SecureKey is a version of SecureKey-Manager written in Python for personal single-user use and without encryption. Completed._
 
 ### - [Personal page](http://matipretz.ar)
 
@@ -71,11 +76,11 @@ _Personal website where I showcase my works._
 
 ### - [Codebox](http://matipretz.ar/codebox)
 
-_Codebox is an educational blog aimed at those who are learning web development. It is part of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is a group project with a team of five people._
+_Codebox was a proposal for the group project involving HTML and CSS development within the framework of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is an educational blog aimed at those who are learning web development. The project is a group effort with a team of five people. Another alternative was chosen, and the proposal was abandoned._
 
 ### - [FullStack Oeste](http://matipretz.ar/fullstackoeste)
 
-_FullStack Oeste is a professional website that offers web development services. It is part of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is a group project with a team of five people._
+_FullStack Oeste is a proposal for the group project involving HTML and CSS development within the framework of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is a professional website that offers web development services. The project is a group effort with a team of five people. Currently in development._
 
 
 
