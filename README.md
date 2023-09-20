@@ -16,14 +16,41 @@ Additionally, I am also an intermediate-level student in the field of law, which
 
 I am confident that my background in law, coupled with my administrative skills, brings a valuable perspective that extends beyond the technical aspect of software development.
 
-## SKILLS
+## TOOLS
 
-- HTML5
-- CSS3
-- Python
-- Java
+### LEARNED
+- VS Code
 - WSL
+- Ubuntu
+- Terminal
+- Java
+- MySQL
+- Python
+- GIT
 - GitHub
+- HTML
+- CSS3
+
+### IN PROGRESS
+- Bootstrap
+- JavaScript
+
+### COMING SOON
+- Node.js
+- Express
+- NPM
+- Vue.js
+- MongoDB
+- Flask
+- TypeScript
+- React
+- Angular
+- SASS
+- LESS
+- Materialize
+- Tailwind
+- Fluter
+- Heroku
 
 ## Online Courses:
 
