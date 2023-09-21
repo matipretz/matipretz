@@ -19,38 +19,40 @@ I am confident that my background in law, coupled with my administrative skills,
 ## TOOLS
 
 ### LEARNED
-- VS Code
-- WSL
-- Ubuntu
-- Terminal
-- Java
-- MySQL
-- Python
-- GIT
-- GitHub
-- HTML
-- CSS3
+<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/linux"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/openjdk"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/git"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/github"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/html5"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/css3"/>
+
 
 ### IN PROGRESS
-- Bootstrap
-- JavaScript
+<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/>
 
 ### COMING SOON
-- Node.js
-- Express
-- NPM
-- Vue.js
-- MongoDB
-- Flask
-- TypeScript
-- React
-- Angular
-- SASS
-- LESS
-- Materialize
-- Tailwind
-- Fluter
-- Heroku
+<img height="32" width="32" src="https://cdn.simpleicons.org/node.js"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/express"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/npm"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/vue.js"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/flask"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/react"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/angular"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/sass"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/less"/>
+<!---
+<img height="32" width="32" src="https://cdn.simpleicons.org/materialize"/>
+-->
+<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/flutter"/>
+<img height="32" width="32" src="https://cdn.simpleicons.org/heroku"/>
 
 ## Online Courses:
 
