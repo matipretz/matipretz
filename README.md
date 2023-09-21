@@ -28,8 +28,7 @@ I am confident that my background in law, coupled with my administrative skills,
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" /></td>
         </tr>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal">
-            <td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" /><td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" /></td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></td>
         </tr>
