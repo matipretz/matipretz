@@ -19,7 +19,7 @@ I am confident that my background in law, coupled with my administrative skills,
 ## TOOLS
 
 ### LEARNED
-
+<html>
 <div>
     <table>
         <tr>
@@ -43,6 +43,7 @@ I am confident that my background in law, coupled with my administrative skills,
         </tr>
     </table>
 </div>
+</html>
 
 ### IN PROGRESS
 
