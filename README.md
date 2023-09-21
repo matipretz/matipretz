@@ -19,17 +19,27 @@ I am confident that my background in law, coupled with my administrative skills,
 ## TOOLS
 
 ### LEARNED
-<img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/linux"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/openjdk"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/python"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/git"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/github"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/css3"/>
+
+
+
+<div style="align:center">
+    <table>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/linux"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/python"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/git"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/github"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/html5"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/css3"/></td>
+        </tr>
+    </table>
+</div>
+
 
 
 ### IN PROGRESS
