@@ -23,21 +23,24 @@ I am confident that my background in law, coupled with my administrative skills,
 <div>
     <table>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/linux"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal"><td>        
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/linux" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" /></td>
         </tr>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/python"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/git"/></td>        
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal">
+            <td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql" /></td>
         </tr>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/github"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/html5"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/css3"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/python" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/git" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/github" /></td>
+        </tr>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/html5" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/css3" /></td>
         </tr>
     </table>
 </div>
@@ -47,8 +50,8 @@ I am confident that my background in law, coupled with my administrative skills,
 <div>
     <table>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/javascript" /></td>
         </tr>
     </table>
 </div>
@@ -58,26 +61,28 @@ I am confident that my background in law, coupled with my administrative skills,
 <div>
     <table>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/node.js"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/express"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/npm"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/vue.js"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/node.js" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/express" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/npm" /></td>
         </tr>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/flask"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/react"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/angular"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/vue.js" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/flask" /></td>
         </tr>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/sass"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/less"/></td>
-            <td><img height="32" width="32" src="https://materializecss.com/res/materialize.svg"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/react" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/angular" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/sass" /></td>
         </tr>
         <tr>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/flutter"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/heroku"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/less" /></td>
+            <td><img height="32" width="32" src="https://materializecss.com/res/materialize.svg" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" /></td>
+        </tr>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/flutter" /></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/heroku" /></td>
         </tr>
     </table>
 </div>
