@@ -20,19 +20,21 @@ I am confident that my background in law, coupled with my administrative skills,
 
 ### LEARNED
 
-
-
-<div style="align:center">
+<div>
     <table>
         <tr>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode"/></td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/linux"/></td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal"><td>        
+        </tr>
+        <tr>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/openjdk"/></td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/mysql"/></td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/python"/></td>
-            <td><img height="32" width="32" src="https://cdn.simpleicons.org/git"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/git"/></td>        
+        </tr>
+        <tr>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/github"/></td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/html5"/></td>
             <td><img height="32" width="32" src="https://cdn.simpleicons.org/css3"/></td>
@@ -40,29 +42,45 @@ I am confident that my background in law, coupled with my administrative skills,
     </table>
 </div>
 
-
-
 ### IN PROGRESS
-<img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/>
+
+<div>
+    <table>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/javascript"/></td>
+        </tr>
+    </table>
+</div>
 
 ### COMING SOON
-<img height="32" width="32" src="https://cdn.simpleicons.org/node.js"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/express"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/npm"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/vue.js"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/flask"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/react"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/angular"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/sass"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/less"/>
-<!---
-<img height="32" width="32" src="https://cdn.simpleicons.org/materialize"/>
--->
-<img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/flutter"/>
-<img height="32" width="32" src="https://cdn.simpleicons.org/heroku"/>
+
+<div>
+    <table>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/node.js"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/express"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/npm"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/vue.js"/></td>
+        </tr>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/mongodb"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/flask"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/react"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/angular"/></td>
+        </tr>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/sass"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/less"/></td>
+            <td><img height="32" width="32" src="https://materializecss.com/res/materialize.svg"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss"/></td>
+        </tr>
+        <tr>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/flutter"/></td>
+            <td><img height="32" width="32" src="https://cdn.simpleicons.org/heroku"/></td>
+        </tr>
+    </table>
+</div>
 
 ## Online Courses:
 
