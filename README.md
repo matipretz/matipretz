@@ -19,62 +19,48 @@ I am confident that my background in law, coupled with my administrative skills,
 ## TOOLS
 
 ### LEARNED
-<p float="left">
+<div align="center">
     <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />
-</p>
-
-<p float="left">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/python" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/git" />&nbsp; &nbsp; &nbsp;
-</p>
-
-<p float="left">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/github" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; &nbsp; &nbsp;
-</p>
+</div>
 
 
 ### IN PROGRESS
 
-<p float="left">
+<div align="center">
     <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; &nbsp; &nbsp;
-</p>
+    <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/jinja" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/phpmyadmin" />&nbsp; &nbsp; &nbsp;
+</div>
 
 ### COMING SOON
 
-<p float="left">
+<div align="center">
     <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/express" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/express/_/eee" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/vue.js" />&nbsp; &nbsp; &nbsp;
-</p>
-
-<p float="left">
     <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/flask" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/angular" />&nbsp; &nbsp; &nbsp;
-</p>
-
-
-<p float="left">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/less" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://materializecss.com/res/materialize.svg" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />&nbsp; &nbsp; &nbsp;
-</p>
-
-<p float="left">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/less" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />&nbsp; &nbsp; &nbsp;
-</p>
+</div>
 
 ## Online Courses:
 
