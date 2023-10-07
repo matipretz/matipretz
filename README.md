@@ -1,4 +1,4 @@
-[matipretz.ar](https://matipretz.ar/) · [WhatsApp](https://tinyurl.com/acces1) · [GitHub](https://github.com/matipretz) · [Contact me!](https://matipretz.ar/contact)
+[matipretz.ar](https://matipretz.ar/) · [WhatsApp](https://tinyurl.com/acces1) · [LinkedIn](https://www.linkedin.com/in/matiasmurad/) · [Contact me!](mailto:contact.me@altmails.com?subject=[GitHub])
 
 # MATÍAS MARTÍN MURAD PRETZ
 
