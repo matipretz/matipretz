@@ -31,17 +31,16 @@ I am confident that my background in law, coupled with my administrative skills,
     <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />&nbsp; &nbsp; &nbsp;
 </div>
 
 
 ### IN PROGRESS
 
 <div align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/jinja" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/phpmyadmin" />&nbsp; &nbsp; &nbsp;
 </div>
 
 ### COMING SOON
@@ -54,12 +53,8 @@ I am confident that my background in law, coupled with my administrative skills,
     <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/angular" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://materializecss.com/res/materialize.svg" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/tailwindcss" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/less" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/heroku" />&nbsp; &nbsp; &nbsp;
 </div>
 
 ## Online Courses:
