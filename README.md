@@ -1,4 +1,4 @@
-[matipretz.ar](https://matipretz.ar/) · [WhatsApp](https://tinyurl.com/acces1) · [LinkedIn](https://www.linkedin.com/in/matiasmurad/) · [Contact me!](mailto:contact.me@altmails.com?subject=[GitHub])
+[matipretz.ar](https://matipretz.ar/) · [WhatsApp](https://tinyurl.com/acces1) · [LinkedIn](hhttps://www.linkedin.com/in/matipretz/) · [Contact me!](mailto:contact.me@altmails.com?subject=[GitHub])
 
 # MATÍAS MARTÍN MURAD PRETZ
 
@@ -7,55 +7,6 @@
 Since an early age, technology has always been my constant fascination. Through various courses, I've acquired solid knowledge in HTML, CSS, JavaScript, Python, and Java.Each of these technologies represents not only a tool but also a gateway to a universe of creative and functional possibilities. From designing interfaces to building interactive applications, I've explored the diverse aspects of web development.
 
 I am convinced that web development is a powerful tool for transforming ideas into tangible solutions. My goal is to create experiences that captivate users and effectively solve problems. My current pursuit is focused on securing my first opportunity to apply this knowledge in a professional environment. I am eager to face challenges and contribute to the world of software development with a fresh approach oriented towards continuous growth.
-
-## MOST RECENT WORK EXPERIENCE
-
-Currently, I am responsible for an administrative department at a motor vehicle property registry, where I have been able to develop skills in organization, attention to detail, and effective communication.
-
-Additionally, I am also an intermediate-level student in the field of law, which provides me with a solid understanding of the legal and ethical implications surrounding software development. This enables me to contribute to ensuring that products and applications comply with legal and ethical standards, particularly crucial in areas such as data protection and user privacy.
-
-I am confident that my background in law, coupled with my administrative skills, brings a valuable perspective that extends beyond the technical aspect of software development.
-
-## TOOLS
-
-### LEARNED
-<div align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/python" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/git" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />&nbsp; &nbsp; &nbsp;
-</div>
-
-
-### IN PROGRESS
-
-<div align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/jinja" />&nbsp; &nbsp; &nbsp;
-</div>
-
-### COMING SOON
-
-<div align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/express/_/eee" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/vue.js" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/angular" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/sass" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/flutter" />&nbsp; &nbsp; &nbsp;
-</div>
 
 ## Online Courses:
 
@@ -89,7 +40,55 @@ I am confident that my background in law, coupled with my administrative skills,
 
 ### **English**
 
-- 09 2023 · [Certificado](https://www.efset.org/cert/oiXghv)
+- C2 Proficient (09/2023) · [Certificate](https://www.efset.org/cert/oiXghv)
+
+## MOST RECENT WORK EXPERIENCE
+
+Currently, I am responsible for an administrative department at a motor vehicle property registry, where I have been able to develop skills in organization, attention to detail, and effective communication.
+
+Additionally, I am also an intermediate-level student in the field of law, which provides me with a solid understanding of the legal and ethical implications surrounding software development. This enables me to contribute to ensuring that products and applications comply with legal and ethical standards, particularly crucial in areas such as data protection and user privacy.
+
+I am confident that my background in law, coupled with my administrative skills, brings a valuable perspective that extends beyond the technical aspect of software development.
+
+## SKILLS
+
+### LEARNED
+<div align="center">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/python" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/git" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />&nbsp; &nbsp; &nbsp;
+</div>
+
+
+### IN PROGRESS
+
+<div align="center">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/node.js" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/npm" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/vue.js" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; &nbsp; &nbsp;
+</div>
+
+### COMING SOON
+
+<div align="center">
+    <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/jinja" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/express/_/eee" />&nbsp; &nbsp; &nbsp;
+    <img height="32" width="32" src="https://cdn.simpleicons.org/react" />&nbsp; &nbsp; &nbsp;
+</div>
+
+
 
 ## PROYECTS
 
