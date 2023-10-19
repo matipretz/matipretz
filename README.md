@@ -61,7 +61,7 @@ I am confident that my background in law, coupled with my administrative skills,
 
 <div align="center">
     <img height="32" width="32" src="https://cdn.simpleicons.org/vue.js" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/vite.js" />&nbsp; &nbsp; &nbsp;    
+    <img height="32" width="32" src="https://cdn.simpleicons.org/vite" />&nbsp; &nbsp; &nbsp;    
     <img height="32" width="32" src="https://cdn.simpleicons.org/mongodb" />&nbsp; &nbsp; &nbsp;    
     <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />&nbsp; &nbsp; &nbsp;
     <img height="32" width="32" src="https://cdn.simpleicons.org/jinja" />&nbsp; &nbsp; &nbsp;
