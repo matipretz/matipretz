@@ -30,24 +30,6 @@ I am convinced that web development is a powerful tool for transforming ideas in
 
 - [English C2 Proficient](https://www.efset.org/cert/oiXghv)
 
-## MOST RECENT WORK EXPERIENCE
-
-Currently, I am responsible for an administrative department in a motor vehicle property registry, where I have developed skills in organization, attention to detail, and effective communication.
-
-Additionally, I am an intermediate student in the field of law, providing me with a solid understanding of the legal and ethical implications surrounding software development. This allows me to contribute to ensuring that products and applications comply with legal and ethical standards, particularly crucial in areas such as data protection and user privacy.
-
-I am confident that my legal background, coupled with my administrative skills, brings a valuable perspective beyond the technical aspect of software development.
-
-#### Sectional Motor Vehicle Property Registry · 4 years 7 months  
-- **Administrative Officer - Tax Department**  
-  _Full-time · Mar 2021 - Present · 2 years 8 months_
-
-- **Front Desk Assistant**  
-  _Part-time · Aug 2019 - Mar 2021 · 1 year 8 months_
-
-- **Tax Assistant**  
-  _Part-time · Apr 2019 - Jul 2019 · 4 months_
-
 
 ## SKILLS
 
