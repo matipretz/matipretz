@@ -32,48 +32,26 @@ I am convinced that web development is a powerful tool for transforming ideas in
 
 
 ## SKILLS
-  <p align="center">
+  <p align="center">Proficient:
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,react,github,vscode" />
+      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,vscode,md" />
     </a>
   </p>
-  <p align="center">
+  <p align="center">Intermediate:
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=express,graphql,mongodb,nextjs,nodejs,vercel" />
+      <img src="https://skillicons.dev/icons?i=js,tailwind,mysql,java,py,flask" />
     </a>
   </p>
 
-<p align="center">
+  <p align="center">Beginner:
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,py" />
+      <img src="https://skillicons.dev/icons?i=ts,mongodb,express,react,nodejs,graphql,nextjs,vercel" />
     </a>
   </p>
-  
-<div align="center">
-    <img height="32" width="32" src="https://cdn.simpleicons.org/visualstudiocode" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/linux" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/ubuntu" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/windowsterminal" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/bootstrap" />&nbsp; &nbsp; &nbsp;    
-    <img height="32" width="32" src="https://cdn.simpleicons.org/markdown/_/eee" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/git" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/github/_/eee" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/mysql" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/openjdk" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/python" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/flask/_/eee" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/jinja" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/sqlalchemy" />&nbsp; &nbsp; &nbsp;
-    <img height="32" width="32" src="https://cdn.simpleicons.org/sqlite" />&nbsp; &nbsp; &nbsp;
-</div>
-
 
 ## PROYECTS
 
-- [PySword - Python Password Manager](https://matipretz.ar/Py_Sword/) (Flask)
+- [PySword - Python Password Manager](https://github.com/matipretz/Py_Sword) (Flask)
     Web app management application that allows you to generate and store passwords online.
 - [SecureKey-Manager](http://github.com/matipretz/SecureKey-Manager) (Java)
     SecureKey-Manager is a management application that allows you to generate and store passwords offline. It was written in Java as part of the "Codo a Codo 4.0 - Initial Java Programming" course as an individual final project. It supports multiple users and data encryption. Completed.
