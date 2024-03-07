@@ -32,18 +32,20 @@ I am convinced that web development is a powerful tool for transforming ideas in
 
 
 ## SKILLS
-  <p align="center">Proficient:
+Proficient:
+  <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html,css,bootstrap,github,vscode,md" />
+      <img src="https://skillicons.dev/icons?i=vscode,github,html,css,bootstrap,md" />
     </a>
   </p>
-  <p align="center">Intermediate:
+  Intermediate:
+  <p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=js,tailwind,mysql,java,py,flask" />
     </a>
   </p>
-
-  <p align="center">Beginner:
+Beginner:
+<p align="center">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=ts,mongodb,express,react,nodejs,graphql,nextjs,vercel" />
     </a>
