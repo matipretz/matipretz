@@ -1,6 +1,6 @@
 # MATÍAS MARTÍN MURAD PRETZ  
 
-_[matipretz.ar](https://matipretz.ar/) · [WhatsApp](https://tinyurl.com/acces1) · [LinkedIn](https://www.linkedin.com/in/matipretz/) · [GitHub](https://github.com/matipretz) · [e-Mail](mailto:mati.pretz+dev@googlemail.com?subject=[CV])_  
+_[matipretz.ar](https://matipretz.ar/) · [WhatsApp](https://tinyurl.com/acces1) · [/www.linkedin.com/in/matipretz](https://www.linkedin.com/in/matipretz/) · [/github.com/matipretz](https://github.com/matipretz) · [matipretz@gmail.com](mailto:matipretz@gmail.com?subject=[CV])_  
 
 
 **Hello, I'm Matías, a technology enthusiast in my mid-thirties.**
@@ -13,7 +13,8 @@ I am convinced that web development is a powerful tool for transforming ideas in
 
 ### [@Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
 
-- [Full Stack with Python (on course)]()
+- [Full Stack with NodeJS (on course)]()
+- [Full Stack with Python (waiting for diploma)]()
 - [Basics of programming with java](https://drive.google.com/file/d/1NRTS0h5E0a1epArzntPvWQ2vxd34Y-Yu)
 
 ### [@Educación IT](https://www.educacionit.com/)
@@ -43,13 +44,13 @@ I am convinced that web development is a powerful tool for transforming ideas in
 <p align="center"> Intermediate:</p>
   <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,tailwind,mysql,java,py,flask" />
+      <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,tailwind,java,py,flask,mysql" />
     </a>
   </p>
 <p align="center">Beginner:</p>
 <p align="center">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,mongodb,express,react,nodejs,graphql,nextjs,vercel" />
+      <img src="https://skillicons.dev/icons?i=ts,nextjs,vercel,astro" />
     </a>
   </p>
 
