@@ -14,7 +14,7 @@ I am convinced that web development is a powerful tool for transforming ideas in
 ### [@Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
 
 - [Full Stack with NodeJS (on course)]()
-- [Full Stack with Python (waiting for diploma)]()
+- [Full Stack with Python](https://drive.google.com/file/d/16YkxBkqEgYPfzsfe8p8_x2EURlHL-ItJ/view)
 - [Basics of programming with java](https://drive.google.com/file/d/1NRTS0h5E0a1epArzntPvWQ2vxd34Y-Yu)
 
 ### [@Educación IT](https://www.educacionit.com/)
