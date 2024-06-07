@@ -56,16 +56,15 @@ I am convinced that web development is a powerful tool for transforming ideas in
 
 ## PROYECTS
 
-- [PySword - Python Password Manager](https://github.com/matipretz/Py_Sword) (Flask)
+- [PySword - Python Password Manager](https://pysword.pythonanywhere.com/) (Flask)
     Web app management application that allows you to generate and store passwords online.
 - [SecureKey-Manager](http://github.com/matipretz/SecureKey-Manager) (Java)
     SecureKey-Manager is a management application that allows you to generate and store passwords offline. It was written in Java as part of the "Codo a Codo 4.0 - Initial Java Programming" course as an individual final project. It supports multiple users and data encryption. Completed.
 - [SecureKey](http://github.com/matipretz/SecureKey) (Python)
     SecureKey is a version of SecureKey-Manager written in Python for personal single-user use and without encryption. Completed.
-
-- [/matipretz.ar](http://matipretz.ar) (HTML, CSS, JS)
-    Personal website where I showcase my works.
-- [FullStack Oeste](http://matipretz.ar/fullstackoeste) (HTML, CSS, JS)
-    FullStack Oeste is a proposal for the group project involving HTML and CSS development within the framework of the 'Codo a Codo 4.0 - Fullstack with Python' course. It is a professional website that offers web development services. The project is a group effort with a team of five people. Currently in development.
+- [/matipretz.ar](http://matipretz.ar) (Next)
+    Personal blog where I showcase my works.
+- [/matipretz-cv.vercel.app](https://matipretz-cv.vercel.app/) (Astro)
+    Personal CV with PDF output.
 
 
