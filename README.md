@@ -9,6 +9,20 @@ Since an early age, technology has always been my constant fascination. Through 
 
 I am convinced that web development is a powerful tool for transforming ideas into tangible solutions. My goal is to create experiences that captivate users and effectively solve problems. My current pursuit is focused on securing my first opportunity to apply this knowledge in a professional environment. I am eager to face challenges and contribute to the world of software development with a fresh approach oriented towards continuous growth.
 
+## PROYECTS
+
+- [PySword - Python Password Manager](https://pysword.pythonanywhere.com/) (Flask)
+    Web app management application that allows you to generate and store passwords online.
+- [/matipretz.ar](http://matipretz.ar) (Next)
+    Personal blog where I showcase my works.
+- [/matipretz-cv.vercel.app](https://matipretz-cv.vercel.app/) (Astro)
+    Personal CV with PDF output.
+- [SecureKey-Manager](http://github.com/matipretz/SecureKey-Manager) (Java)
+    SecureKey-Manager is a management application that allows you to generate and store passwords offline. It was written in Java as part of the "Codo a Codo 4.0 - Initial Java Programming" course as an individual final project. It supports multiple users and data encryption. Completed.
+- [SecureKey](http://github.com/matipretz/SecureKey) (Python)
+    SecureKey is a version of SecureKey-Manager written in Python for personal single-user use and without encryption. Completed.
+
+
 ## CERTIFICATES
 
 ### [@Codo a codo 4.0](https://agenciadeaprendizaje.bue.edu.ar/codo-a-codo/)
@@ -53,18 +67,3 @@ I am convinced that web development is a powerful tool for transforming ideas in
       <img src="https://skillicons.dev/icons?i=ts,nextjs,vercel,astro" />
     </a>
   </p>
-
-## PROYECTS
-
-- [PySword - Python Password Manager](https://pysword.pythonanywhere.com/) (Flask)
-    Web app management application that allows you to generate and store passwords online.
-- [SecureKey-Manager](http://github.com/matipretz/SecureKey-Manager) (Java)
-    SecureKey-Manager is a management application that allows you to generate and store passwords offline. It was written in Java as part of the "Codo a Codo 4.0 - Initial Java Programming" course as an individual final project. It supports multiple users and data encryption. Completed.
-- [SecureKey](http://github.com/matipretz/SecureKey) (Python)
-    SecureKey is a version of SecureKey-Manager written in Python for personal single-user use and without encryption. Completed.
-- [/matipretz.ar](http://matipretz.ar) (Next)
-    Personal blog where I showcase my works.
-- [/matipretz-cv.vercel.app](https://matipretz-cv.vercel.app/) (Astro)
-    Personal CV with PDF output.
-
-
