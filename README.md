@@ -17,11 +17,6 @@ I am convinced that web development is a powerful tool for transforming ideas in
     Personal blog where I showcase my works.
 - [/matipretz-cv.vercel.app](https://matipretz-cv.vercel.app/) (Astro)
     Personal CV with PDF output.
-- [SecureKey-Manager](http://github.com/matipretz/SecureKey-Manager) (Java)
-    SecureKey-Manager is a management application that allows you to generate and store passwords offline. It was written in Java as part of the "Codo a Codo 4.0 - Initial Java Programming" course as an individual final project. It supports multiple users and data encryption. Completed.
-- [SecureKey](http://github.com/matipretz/SecureKey) (Python)
-    SecureKey is a version of SecureKey-Manager written in Python for personal single-user use and without encryption. Completed.
-
 
 ## CERTIFICATES
 
