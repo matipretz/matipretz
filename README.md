@@ -13,7 +13,7 @@ I am convinced that web development is a powerful tool for transforming ideas in
 
 - [PySword - Python Password Manager](https://pysword.pythonanywhere.com/) (Flask)
     Web app management application that allows you to generate and store passwords online.
-- [/matipretz.ar](https://porfolio-dev-eta.vercel.app/) (Next)
+- [/[matipretz.ar](https://matipretz.vercel.app/) (Next)
     Personal blog where I showcase my works.
 - [/matipretz-cv.vercel.app](https://matipretz-cv.vercel.app/) (Astro)
     Personal CV with PDF output.
